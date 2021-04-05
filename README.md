@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dylanwroberts
-- 👀 I’m interested in react, python, and linux
-- 🌱 I’m currently learning python and VIM
+- 👀 I’m interested in Full-Stack Web Development and studying algorithms with Python
+- 🌱 I’m currently learning Python
 
 <!---
 dylanwroberts/dylanwroberts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
