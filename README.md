@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dylanwroberts
-- 👀 I’m interested in Full-Stack Web Development and studying algorithms with Python
-- 🌱 I’m currently learning Python
+- 👀 I’m a full-stack web developer creating web apps with React
 
 <!---
 dylanwroberts/dylanwroberts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
